@@ -3,11 +3,11 @@ export default function LineContainer() {
         <section className="bg-white  h-full lg:grid lg:grid-cols-2">
             <section className="bg-[#111] p-4 pt-0 mb-1 ml-1 mr-1">
                 <header className="main-card m-4 mt-0 h-1/4 container mx-auto rounded-br-3xl bg-slate-400">
-a
+
                 </header>
 
                 <article className="second-card border-y-2 h-2/6">
-a
+
                 </article>
                 <footer>
 

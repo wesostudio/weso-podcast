@@ -10,8 +10,8 @@ export default function Home() {
       <Banner />
       <LineContainer />
       <section className="lg:col-span-3">
-      <ListOfChapters />
-      <WesoWorld />
+        <ListOfChapters />
+        <WesoWorld />
       </section>
       
     </section>

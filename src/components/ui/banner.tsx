@@ -5,7 +5,7 @@ export default function Banner() {
         <Image 
             src="/podcast.png"
             alt="Weso Podcast"
-            className="min-h-screen "
+            className="min-h-screen"
             width={240}
             height={600}        
         />
